@@ -13,6 +13,6 @@ public:
             }
             monotonic.push(curr);
         }
-        return nextWarmerTemps;
+        return nextWarmerTemps; 
     }
 };

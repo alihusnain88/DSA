@@ -47,6 +47,4 @@ string removeKdigits(string s, int k) {
 
     return result;
 }
-
-
 };
